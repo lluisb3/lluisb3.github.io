@@ -18,7 +18,7 @@ Universitat de Girona (Spain), University of Burgundy (France) and UNICAS (Italy
 Overall qualification: **9.25/10**
   * Specialized in Image Analysis and Computer Vision using Artificial Intelligence, with a focus on Deep Learning and Machine Learning methods aimed at developing Computer-Aided Diagnosis (CAD) systems.
   * Developed several academic projects, demonstrating expertise in medical image analysis. The main projects with Github repository can be found at [CAnDy_SkinLesion](https://github.com/lluisb3/CAnDy_SkinLesion), [chest_ct_registration](https://github.com/manasikattel/chest_ct_registration), [BrainTissueSegmentation_IBSR18](https://github.com/sofileon/BrainTissueSegmentation_IBSR18).
-  * Research Internship at the Hes-SO Valais Wallis to develop my master’s thesis ([HistoLung project](/portfolio/)).
+  * Research Internship at the Hes-SO Valais Wallis to develop my master’s thesis ([HistoLung project](/portfolio/#histolung-project-as-part-of-the-examode-project)).
 * **Bachelor’s degree in Biomedical Engineering** | **2013 - 2017**
 Universitat Politècnica de València (UPV).<br>
  Overall qualification: **7.10/10**
