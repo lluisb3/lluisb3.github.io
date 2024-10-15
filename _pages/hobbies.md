@@ -19,11 +19,11 @@ I like to practice any kind of mountain sports but I am really in love about ski
 
 When I lived in Australia I learn how to surf and once in a while I love to go to surf beaches to keep practising this amazing sport. (The first photo is in Australia, Byron Bay).
 
-<img src="../images/surf1.jpg" alt="drawing" width="500"/>
-<img src="../images/surf2.jpg" alt="drawing" width="500"/>
+<div style='text-align: center'><img src="../images/surf1.jpg" alt="drawing" width="500"/></div>
+<div style='text-align: center'><img src="../images/surf2.jpg" alt="drawing" width="500"/></div>
 
 ## Chess and Video games
 
 I love also in my free time improve my chess skills and play some video games like Age of Empires II. 
 
-<img src="../images/chess1.jpg" alt="drawing" width="500"/>
+<div style='text-align: center'><img src="../images/chess1.jpg" alt="drawing" width="500"/></div>

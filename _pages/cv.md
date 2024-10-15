@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="wordwrap">You can also find a copy of my CV <a href="../files/CV_Lluis.pdf">here</a>.</div>
+
 Education
 ======
 * **Master's Degree in Medical Imaging and Applications (MAIA)** (European Erasmus Mundus Grant) | **2021 - 2023**
 Universitat de Girona (Spain), University of Burgundy (France) and UNICAS (Italy). <br>
 Overall qualification: **9.25/10**
+  * Specialized in Image Analysis and Computer Vision using Artificial Intelligence, with a focus on Deep Learning and Machine Learning methods aimed at developing Computer-Aided Diagnosis (CAD) systems.
+  * Developed several academic projects, demonstrating expertise in medical image analysis. The main projects with Github repository can be found at [CAnDy_SkinLesion](https://github.com/lluisb3/CAnDy_SkinLesion), [chest_ct_registration](https://github.com/manasikattel/chest_ct_registration), [BrainTissueSegmentation_IBSR18](https://github.com/sofileon/BrainTissueSegmentation_IBSR18).
+  * Research Internship at the Hes-SO Valais Wallis to develop my master’s thesis ([HistoLung project](/portfolio/)).
 * **Bachelor’s degree in Biomedical Engineering** | **2013 - 2017**
 Universitat Politècnica de València (UPV).<br>
  Overall qualification: **7.10/10**
@@ -36,7 +41,7 @@ Sclerosis (MS) using Deep learning algorithms based on self-supervision learning
   * Supervising a bachelor’s student in their thesis to continue the work I performed during my research internship.
 
 **Research Internship** | Hes-SO Valais Wallis (Sierre, Switzerland)
-**01/2023 - 06/2023**
+**01/2023 - 07/2023**
 * Developed Python scripts to automate experiments and data visualization processes.
 * Employed self-supervision (MoCo v2) to pre-train a model on Whole Slide Images (digital biopsies) of the lung.
 * Trained the pre-trained model using Multiple Instance Learning to classify four different lung cancer subtypes.
@@ -47,7 +52,7 @@ Sclerosis (MS) using Deep learning algorithms based on self-supervision learning
 **Personal sabbatical** | Ireland and Australia
 **10/2017 - 03/2020**
 * Worked as a chef in Ireland and Australia for two and a half years to broaden life experiences, explore different cultures, and enhance my English language skills.
-* Continued collaboration with bachelor’s thesis supervisor, David Moratal, resulting in the publication: [Link-level functional connectivity neuroalterations in autism spectrum disorder: A developmental resting-state fMRI study](https://www.mdpi.com/2075-4418/9/1/32).
+* Continued collaborating with my bachelor’s thesis supervisor, David Moratal, resulting in the publication: [Link-level functional connectivity neuroalterations in autism spectrum disorder: A developmental resting-state fMRI study](https://www.mdpi.com/2075-4418/9/1/32).
 
   
 Skills
