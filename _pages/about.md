@@ -20,8 +20,8 @@ Featured Engineering Projects
 * **QuantImage**
   * Medical ML training platform currently evolving through architectural upgrades and feature development.
   * Focused on robust experimentation workflows and scalable engineering patterns for research teams.
-  * [Backend Repository](https://github.com/lluisb3)
-  * [Frontend Repository](https://github.com/lluisb3)
+  * [Backend Repository](https://github.com/medgift/quantimage2_backend)
+  * [Frontend Repository](https://github.com/medgift/quantimage2-frontend)
 
 Selected Publications
 ======

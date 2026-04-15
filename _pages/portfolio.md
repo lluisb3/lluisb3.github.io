@@ -28,8 +28,8 @@ QuantImage
 
 <div style='text-align: justify'>Medical ML training platform currently evolving through architectural upgrades and new feature development to improve reliability, usability, and experimentation velocity.</div>
 
-* [Backend Repository](https://github.com/lluisb3)
-* [Frontend Repository](https://github.com/lluisb3)
+* [Backend Repository](https://github.com/medgift/quantimage2_backend)
+* [Frontend Repository](https://github.com/medgift/quantimage2-frontend)
 
 ---
 
