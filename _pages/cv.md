@@ -57,16 +57,18 @@ Sclerosis (MS) using Deep learning algorithms based on self-supervision learning
   
 Skills
 ======
+* Agentic AI
+  * Claude Code, GitHub Copilot Pro
 * Programming Languages
-  * Python, Bash, LateX, Matlab, SQL
-* Platforms and Tools
-  * Linux, Windows, Docker, Git
-* ML/DL Frameworks
-  * PyTorch, Hugging Face, TensorFlow, Scikit-learn, Albumentations, Monai, WandB3
+  * Python, Bash, LaTeX, Matlab, SQL
+* Deep Learning
+  * PyTorch, Hugging Face, TensorFlow, MONAI, Scikit-learn, Albumentations, Weights & Biases
+* Compute and Platforms
+  * CUDA, Linux, Windows, Docker, Git, Multiprocessing
 * Image Analysis and Computer Vision Libraries
-  * OpenCV, Open3D, Openslides, SimpleITK, Scikit-image, QuPath
+  * OpenCV, Open3D, OpenSlide, SimpleITK, Scikit-image, QuPath
 * Data Analysis Libraries
-  * NumPy, SciPy, Pandas, Multiprocessing
+  * NumPy, SciPy, Pandas
 
 Publications
 ======
