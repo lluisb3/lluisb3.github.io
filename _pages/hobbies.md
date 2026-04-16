@@ -11,6 +11,7 @@ redirect_from:
 I enjoy all kinds of mountain sports, but I am particularly passionate about skiing, hiking, trekking, and a bit of climbing.
 
 <img src="../images/ski1.jpg" alt="Skiing" width="480"/>
+<img src="../images/ski2.jpg" alt="Skiing" width="480"/>
 <img src="../images/trekk1.jpg" alt="Trekking" width="480"/>
 
 ## Water Sports
