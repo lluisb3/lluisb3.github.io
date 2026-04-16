@@ -23,7 +23,7 @@ MSXplain
 
 <div style='text-align: center'><img src='/images/msxplain_2.png' alt="MSXplain lesion segmentation" width="800"></div>
 
-* [GitHub: msxplain-report-viewer](https://github.com/lluisb3/msxplain-report-viewer)
+* [GitHub: msxplain-report-viewer](https://github.com/medgift/msxplain-report-viewer)
 
 ---
 

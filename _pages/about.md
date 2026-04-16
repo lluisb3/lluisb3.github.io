@@ -15,7 +15,7 @@ Featured Engineering Projects
 * **MSXplain**
   * Full-stack web application (Python/React) for automatic Multiple Sclerosis lesion segmentation.
   * Integrated ORTHANC/OHIF for PACS connectivity and advanced medical visualization workflows.
-  * [GitHub: msxplain-report-viewer](https://github.com/lluisb3/msxplain-report-viewer)
+  * [GitHub: msxplain-report-viewer](https://github.com/medgift/msxplain-report-viewer)
 
 * **QuantImage**
   * Medical ML training platform currently evolving through architectural upgrades and feature development.
@@ -26,7 +26,7 @@ Featured Engineering Projects
 Selected Publications
 ======
 
-* **Hereditary project (Briefings in Bioinformatics)** — Evaluated and synthesized methodologies of state-of-the-art self-supervised genomic models (DNABert, HyenaDNA, Nucleotide Transformer). Review paper accepted in Briefings in Bioinformatics.
+* **Hereditary project (Briefings in Bioinformatics)** — Evaluated and synthesized methodologies of state-of-the-art self-supervised genomic models (DNABert, HyenaDNA, Nucleotide Transformer). Review paper accepted in [Briefings in Bioinformatics](/publication/2025-self_supervised_molecular).
 * **SPIE Medical Imaging 2024** — [A full pipeline to analyze lung histopathology images](/publication/2024-full_pipeline), combining self-supervised learning and multiple instance learning on 1,000+ Whole Slide Images.
 * **Autism fMRI Study** — [Link-Level Functional Connectivity Neuroalterations in Autism Spectrum Disorder](/publication/2019_Link_level).
 
