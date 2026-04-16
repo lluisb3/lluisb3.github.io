@@ -17,7 +17,11 @@ Featured Engineering Projects
 MSXplain
 ======
 
-<div style='text-align: justify'>Full-stack web application (Python/React) for automatic Multiple Sclerosis lesion segmentation, including ORTHANC/OHIF integration for PACS interoperability and advanced medical visualization workflows.</div>
+<p><div style='text-align: justify'>MSXplain is a full-stack web application built with Python (FastAPI) and React, designed for the automatic segmentation of Multiple Sclerosis (MS) lesions from MRI scans. The platform integrates ORTHANC and OHIF Viewer to provide a complete PACS-based workflow, enabling clinicians to upload DICOM studies, trigger AI-powered lesion segmentation, and review results through an advanced medical visualization interface. It also includes automated report generation, streamlining the radiology workflow from image acquisition to clinical reporting.</div></p>
+
+<div style='text-align: center'><img src='/images/msxplain_1.png' alt="MSXplain interface" width="800"></div>
+
+<div style='text-align: center'><img src='/images/msxplain_2.png' alt="MSXplain lesion segmentation" width="800"></div>
 
 * [GitHub: msxplain-report-viewer](https://github.com/lluisb3/msxplain-report-viewer)
 
@@ -26,8 +30,13 @@ MSXplain
 QuantImage
 ======
 
-<div style='text-align: justify'>Medical ML training platform currently evolving through architectural upgrades and new feature development to improve reliability, usability, and experimentation velocity.</div>
+<p><div style='text-align: justify'>QuantImage is a web-based medical machine learning training platform that allows researchers and clinicians to extract radiomics features from medical images and train predictive models without writing code. The platform supports the full experimentation lifecycle — from feature extraction and selection to model training and evaluation — through an intuitive interface. As part of ongoing development, I am driving architectural upgrades and new feature implementation across both the backend and frontend to improve platform reliability, usability, and experimentation velocity.</div></p>
 
+<div style='text-align: center'><img src='/images/quantimage_1.png' alt="QuantImage platform" width="800"></div>
+
+<div style='text-align: center'><img src='/images/quantimage_2.png' alt="QuantImage features" width="800"></div>
+
+* [QuantImage Website](https://quantimage2.ehealth.hevs.ch/)
 * [Backend Repository](https://github.com/medgift/quantimage2_backend)
 * [Frontend Repository](https://github.com/medgift/quantimage2-frontend)
 

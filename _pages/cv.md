@@ -11,68 +11,53 @@ redirect_from:
 
 <div class="wordwrap">You can also find a copy of my CV <a href="../files/CV_Lluis.pdf">here</a>.</div>
 
+Relevant Experience
+======
+**Academic Collaborator** | HES-SO Valais-Wallis (Sierre, CH)
+**10/2025 - Present**
+* **Clinical Partnerships:** Spearheading medical AI projects in collaboration with UNIBAS, CHUV, and HESAV to translate machine learning research into practical, enhanced clinical utility.
+* **Full-Stack Engineering ([MSXplain](https://github.com/lluisb3/MSXplain)):** Engineered a complete web application (Python/React) for the automatic segmentation of Multiple Sclerosis (MS) lesions from MRI scans. Integrated automated report generation and ORTHANC/OHIF as PACS and advanced medical visualization.
+* **Strategic Leadership (QuantImage):** Managing the evolution of the QuantImage medical ML training platform. Driving architectural upgrades and feature development across both the [backend](https://github.com/medgift/quantimage2-backend) and [frontend](https://github.com/medgift/quantimage2-frontend).
+* **LETITIA Project:** Leading data extraction and deep learning initiatives in collaboration with EPFL for complex hospital data processing.
+
+**Researcher Assistant** | HES-SO Valais-Wallis (Sierre, CH)
+**09/2023 - 09/2025**
+* **QuantImage Operations:** Maintained platform infrastructure, managed SQL databases, and designed new features to improve the interpretability and presentation of application results.
+* **Genomic LLMs (Hereditary Project):** Evaluated and synthesized methodologies of state-of-the-art self-supervised models (DNABert, HyenaDNA, Nucleotide Transformer) using omics data. Authored a comprehensive review paper, accepted for publication in the Bioinformatics journal.
+* **3D Spatial Analysis (Ither Project):** Utilized HoloLens 2 and customized [Mask3D](https://github.com/lluisb3/Mask3D_v2) for 3D reconstruction and semantic instance segmentation. Extracted Pointcloud/Mesh data using a modified [hl2ss](https://github.com/lluisb3/hl2ss) repository and containerized both algorithms via Docker for system portability.
+
+**Personal Sabbatical & Researcher** | Ireland & Australia
+**10/2017 - 03/2020**
+* Combined two and a half years of international work experience to explore different cultures and enhance English proficiency, while maintaining academic continuity.
+* Continued collaboration with bachelor's thesis supervisor, David Moratal, resulting in the publication: [Link-level functional connectivity neuroalterations in autism spectrum disorder: A developmental resting-state fMRI study](https://www.mdpi.com/2075-4418/9/1/32).
+
 Education
 ======
-* **Master's Degree in Medical Imaging and Applications (MAIA)** (European Erasmus Mundus Grant) | **2021 - 2023**
-Universitat de Girona (Spain), University of Burgundy (France) and UNICAS (Italy). <br>
-Overall qualification: **9.25/10**
-  * Specialized in Image Analysis and Computer Vision using Artificial Intelligence, with a focus on Deep Learning and Machine Learning methods aimed at developing Computer-Aided Diagnosis (CAD) systems.
-  * Developed several academic projects, demonstrating expertise in medical image analysis. The main projects with Github repository can be found at [CAnDy_SkinLesion](https://github.com/lluisb3/CAnDy_SkinLesion), [chest_ct_registration](https://github.com/manasikattel/chest_ct_registration), [BrainTissueSegmentation_IBSR18](https://github.com/sofileon/BrainTissueSegmentation_IBSR18).
-  * Research Internship at the Hes-SO Valais Wallis to develop my master’s thesis ([HistoLung project](/portfolio/#histolung-project-as-part-of-the-examode-project)).
-* **Bachelor’s degree in Biomedical Engineering** | **2013 - 2017**
-Universitat Politècnica de València (UPV).<br>
- Overall qualification: **7.10/10**
+* **Joint Master's in Medical Imaging and Applications (MAIA)** | **2021 - 2023**<br>
+**Erasmus Mundus Grant.** Univ. of Girona (ES), Univ. of Burgundy (FR), UNICAS (IT)
+  * **Master Thesis (HES-SO):** Developed a deep learning model using Self-Supervised Learning and Multiple Instance Learning on 1,000+ Whole Slide Images (1M+ tiles). Publication: Presented results at the SPIE Medical Imaging 2024 conference in San Diego. [[GitHub repository](https://github.com/lluisb3/histo_lung)] [[Proceeding paper](https://www.researchgate.net/publication/379536095_A_full_pipeline_to_analyze_lung_histopathology_images)]
+  * **Academic Projects:** Developed multiple CAD systems emphasizing medical image analysis. Repositories: [CAnDy_SkinLesion](https://github.com/lluisb3/CAnDy_SkinLesion), [chest_ct_registration](https://github.com/manasikattel/chest_ct_registration), and [BrainTissue_Segmentation_IBSR18](https://github.com/sofileon/BrainTissueSegmentation_IBSR18).
+* **Bachelor's in Biomedical Engineering** | UPV (Valencia, ES) | **2013 - 2017**
+  * Focus: Specialized in Medical Image Analysis and Machine Learning methods aimed at developing Computer-Aided Diagnosis (CAD) systems.
 
-Work experience
+Technical Skills
 ======
-**Researcher Assistant** | Hes-SO Valais Wallis (Sierre, Switzerland)
-**09/2023 - Present**
-* Ither project:
-  * Utilized Hololens 2 for 3D reconstruction and instance segmentation of scenes, enhancing spatial data analysis.
-  * Extracted Pointcloud and Mesh data from video and depth recordings using a modified [hl2ss GitHub repository](https://github.com/lluisb3/hl2ss).
-  * Implemented a customized [Mask3D Github repository](https://github.com/lluisb3/Mask3D_v2) to perform the 3D semantic instance segmentation of the
-recorded Pointcloud or Mesh using the Hololens 2 VR.
-  * Containerized both algorithms to ensure portability and isolation across different systems using Docker Engine.
-* Hereditary project:
-  * Conducting research focused on leveraging genomic data to study Amyotrophic Lateral Sclerosis (ALS) and Multiple
-Sclerosis (MS) using Deep learning algorithms based on self-supervision learning mainly autoencoders.
-  * Adapting the LLMs models (DNABert, HyenaDNA, Nucleotide Transformer) from Hugging Face to work on ALS data.
-  * Searching and applying to obtain access to different public genomic datasets (AnswerALS and ProjectMine)
-  * Supervising a bachelor’s student in their thesis to continue the work I performed during my research internship.
+* **Programming:** Python, JavaScript (React), SQL, Bash, LaTeX, MATLAB
+* **Machine & Deep Learning:** PyTorch, Hugging Face, TensorFlow, Scikit-learn, MONAI, Weights & Biases (WandB)
+* **Agentic AI & Dev Tools:** Claude Code, GitHub Copilot Pro, Docker, Git, Linux
+* **Computer Vision & Medical:** OpenCV, Open3D, SimpleITK, QuPath, OpenSlide, Albumentations
+* **Data & Compute:** CUDA, Multiprocessing, NumPy, Pandas, SciPy
 
-**Research Internship** | Hes-SO Valais Wallis (Sierre, Switzerland)
-**01/2023 - 07/2023**
-* Developed Python scripts to automate experiments and data visualization processes.
-* Employed self-supervision (MoCo v2) to pre-train a model on Whole Slide Images (digital biopsies) of the lung.
-* Trained the pre-trained model using Multiple Instance Learning to classify four different lung cancer subtypes.
-* Presented findings at the SPIE Medical Imaging 2024 conference in San Diego. [[GitHub repository](https://github.com/lluisb3/histo_lung)] [[Proceeding paper](https://www.researchgate.net/publication/379536095_A_full_pipeline_to_analyze_lung_histopathology_images)]
-* Containerized the hlung model for portability, producing lung cancer predictions and visual heatmaps using Docker
-* Managed a dataset with ~1,000 WSI that led after preprocessing to more than 1,000,000 images to train the models.
-
-**Personal sabbatical** | Ireland and Australia
-**10/2017 - 03/2020**
-* Worked as a chef in Ireland and Australia for two and a half years to broaden life experiences, explore different cultures, and enhance my English language skills.
-* Continued collaborating with my bachelor’s thesis supervisor, David Moratal, resulting in the publication: [Link-level functional connectivity neuroalterations in autism spectrum disorder: A developmental resting-state fMRI study](https://www.mdpi.com/2075-4418/9/1/32).
-
-  
-Skills
+Language Proficiency
 ======
-* Agentic AI
-  * Claude Code, GitHub Copilot Pro
-* Programming Languages
-  * Python, Bash, LaTeX, Matlab, SQL
-* Deep Learning
-  * PyTorch, Hugging Face, TensorFlow, MONAI, Scikit-learn, Albumentations, Weights & Biases
-* Compute and Platforms
-  * CUDA, Linux, Windows, Docker, Git, Multiprocessing
-* Image Analysis and Computer Vision Libraries
-  * OpenCV, Open3D, OpenSlide, SimpleITK, Scikit-image, QuPath
-* Data Analysis Libraries
-  * NumPy, SciPy, Pandas
+* **Spanish:** Native
+* **Catalan:** Native
+* **English:** Professional Competence (C1 level, APTIS)
+* **French:** Intermediate
+* **Italian:** Intermediate
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
