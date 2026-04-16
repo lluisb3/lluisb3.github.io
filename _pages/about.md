@@ -26,7 +26,7 @@ Featured Engineering Projects
 Selected Publications
 ======
 
-* **Hereditary project (Bioinformatics Journal)** — Evaluated and synthesized methodologies of state-of-the-art self-supervised genomic models (DNABert, HyenaDNA, Nucleotide Transformer). Review paper accepted in Bioinformatics.
+* **Hereditary project (Briefings in Bioinformatics)** — Evaluated and synthesized methodologies of state-of-the-art self-supervised genomic models (DNABert, HyenaDNA, Nucleotide Transformer). Review paper accepted in Briefings in Bioinformatics.
 * **SPIE Medical Imaging 2024** — [A full pipeline to analyze lung histopathology images](/publication/2024-full_pipeline), combining self-supervised learning and multiple instance learning on 1,000+ Whole Slide Images.
 * **Autism fMRI Study** — [Link-Level Functional Connectivity Neuroalterations in Autism Spectrum Disorder](/publication/2019_Link_level).
 
